@@ -1,0 +1,29 @@
+(In Current Version 1.1 July 2018):
+
+Complete Software
+
+(In Next Version 1.2 August 2018):
+
+Known Bug Fixed
+
+(In Next Version 1.3 18th August 2018):
+
+Known Bug Fixed
+
+Now Enter amount with decimal also in Discount
+
+User can delete RO of Newspaper, Radio, Hoarding.
+
+(In Next Version 2.0 September 2018):
+
+Filteration Reports by Year
+
+Showing Profit from Individual Customer (Ex. in May From GLS i earn 400000)
+
+(In Next Version 2.1 October 2018):
+
+Email Invoice to Customer Directly 
+
+Email RO to Supplier Directly
+
+
